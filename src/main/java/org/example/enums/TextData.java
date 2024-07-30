@@ -1,7 +1,5 @@
 package org.example.enums;
 
-//    private static final Logger log = LoggerFactory.getLogger(Class.class);
-
 public enum TextData {
     EMAIL("eiridyr@gmail.com"),
     PASSWORD("Wg6y2"),
