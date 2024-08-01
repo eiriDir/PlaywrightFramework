@@ -1,7 +1,6 @@
 import com.microsoft.playwright.Locator;
-import org.junit.jupiter.api.*;
-
-import java.util.List;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 import static org.example.enums.ErrorMessages.CHECKOUT_FAILED;
 import static org.example.enums.ErrorMessages.ELEMENTS_IS_NOT_DISPLAYED;
